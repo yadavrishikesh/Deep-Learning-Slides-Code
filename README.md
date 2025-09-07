@@ -1,4 +1,4 @@
-# Reading Group on Deep Learning and its Application in Mathematics
+# Reading Group on Deep Learning and its Application in Mathematics and Statistics
 
 **Total Duration:** One whole semester (16 weeks)  
 **Frequency of Meetings:** Once a week, 2 hours each  
