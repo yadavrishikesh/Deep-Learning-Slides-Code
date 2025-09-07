@@ -1,4 +1,4 @@
-# Reading Group on Deep Learning and its Application in Mathematics
+# Reading Group on Deep Learning and its Application in Mathematics and Statistics 
 
 **Total Duration:** One whole semester extended to **5–6 months (22 weeks)**  
 **Frequency of Meetings:** Once a week, 2 hours each  
@@ -161,6 +161,10 @@ For **PhD students and faculty of SMSS**, this group is designed not only to tea
 - Example: Train & interpret a DL model for your PhD/faculty domain  
 
 ---
+
+## References & Recommended Resources
+
+Here are some **core books and landmark papers** organized by topic, to support deeper study:
 
 ### Foundational Texts (Weeks 1–4)
 - **Deep Learning** — Ian Goodfellow, Yoshua Bengio, Aaron Courville (MIT Press, 2016) → *gold-standard reference for fundamentals*  
