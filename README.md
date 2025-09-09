@@ -2,7 +2,7 @@
 
 **Total Duration:** One whole semester extended to **5–6 months (22 weeks)**  
 **Frequency of Meetings:** Every Wednesday from 3.30 PM to 5.30 PM.  
-**Attendees:** SMSS faculty and PhD students (not mandatory, only for interested ones)
+**Attendees:** SMSS faculty and PhD students (not mandatory, only for interested ones)  
 **Location:** SMSS Meeting room, Second floor, A13 Building. 
 
 ---
