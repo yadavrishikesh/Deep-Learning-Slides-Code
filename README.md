@@ -1,9 +1,13 @@
 # Reading Group on Deep Learning and its Application in Mathematics and Statistics 
 
 **Total Duration:** One whole semester extended to **5–6 months (22 weeks)**  
+
 **Frequency of Meetings:** Every Wednesday from 3.30 PM to 5.30 PM.  
+
 **Attendees:** SMSS faculty and Students (not mandatory, only for interested ones)  
+
 **Location:** SMSS Meeting room, Second floor, A13 Building, North Campus  
+
 **Important Note:** This is not a regular class where you need to appear for the exam and so on. This is more like self-motivated learning. However, I will handover occasionally some examples and exercises that you may do by yourself as per your convenience and time. 
 
 ---
