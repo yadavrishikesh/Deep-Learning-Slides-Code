@@ -26,7 +26,6 @@ For **PhD students and faculty of SMSS**, this group is designed not only to tea
 - Many of us want to learn about deep learning, but due to busy schedules, we never get time to explore these topics.  
 - With **organized slides, documented code, and curated reading materials**, faculty members can get a solid overview of these fast-growing fields by spending a maximum of **two hours a week**.  
 
- In short, this is not only a reading group; it is an **academic accelerator** that equips the next generation of mathematicians and scientists with tools that are rapidly growing and defining the frontier of research worldwide.
 
 ---
 
