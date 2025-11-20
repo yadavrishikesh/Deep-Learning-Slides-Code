@@ -37,7 +37,6 @@ For **PhD students and faculty of SMSS**, this group is designed not only to tea
 **Month 1:** Background and Motivation on Deep Learning  
 - Historical Development of DL and Current Relevance  
 - Basic Tools: Python (NumPy, TensorFlow basics, plotting)  
-- Probability and Statistics  
 - Classification & Regression Overview (Supervised Learning)  
 
 **Month 2:** Machine Learning (Statistics) Refresher  
